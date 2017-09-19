@@ -37,9 +37,9 @@ This will give you a bar chart showing the total number of enslaved people who e
 
 We now have two levels of information - we can see the large segments that show how many people were taken from each East African place, and each small box within shows where those people were taken. 
 
-*What are you able to see in this?*
+**What are you able to see in this?**
 
-**Adding Final Details (optional)**
+#### Adding Final Details
 
 * Change the colors: Add ‘Principal Place of Slave Purchase’ again and drag it into the ‘Color’ box (which is located in the ‘Marks’ box)
 * Add landing the labels: Add ‘Principal Region of Slave Landing’ agan and drag it into the ‘Label’ box
@@ -60,7 +60,7 @@ There's a small box in the bottom left with a bar chart and a + symbol. Click th
 
 This will give you a line chart showing the total number of enslaved people who embarked and the number that ultimately disembarked. 
 
-*What are you able to see in this?*
+**What are you able to see in this?**
 
 
 ### Where are enslaved people from particular places being taken?
@@ -81,7 +81,7 @@ To make the visualization easier to work with, the bar chart can be sorted in as
 
 * There are options to sort the graph just to the left of the center of the top toolbar. Click the sort descending icon (there's an arrow pointing down with the larger bars at the top of the graph).
 
-**Adding Final Details (optional)**
+#### Adding Final Details
 
 Additional information can be added to your chart without pulling more fields into the main body. 
 
