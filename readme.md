@@ -1,8 +1,7 @@
 # Visualizing Slave Voyages Data
 Prepared by Brandon Locke & Dan Fandino
 
-## In Class
-### Finding and Evaluating Data
+## Finding and Evaluating Data
 The Trans-Atlantic Slave Trade Database [slavevoyages.org](http://slavevoyages.org) is a database of almost 36,000 slaving voyages to the Americas from between 1515 and 1866. It is not a complete database, but it represents a significant portion of them (for reference, the database includes information on almost 10 million enslaved people, while it is estimated that as many as 12 million were transported to the Americas). The project is the result of a decades-long collaboration between scholars around the Atlantic world.
 
 For today, we have extracted the roughly 1000 slave voyages in the database that stopped in East Africa or the Indian Ocean at some point.
@@ -12,12 +11,12 @@ For today, we have extracted the roughly 1000 slave voyages in the database that
 * **What questions can you ask of this data?**
 * **How might you visualize this information to discover or illustrate patterns?**
 
-### Importing and visualizing with Tableau
+## Importing and visualizing with Tableau
 1. Open Tableau and click text file on the left to connect to a csv (comma separated value) file. Select `eastafricanslavedata.csv` and wait a minute for it to load.
 1. Once it has loaded, it should appear in the bottom half of the screen. Make sure everything looks correct.
 1. On the bottom of the screen, there will be an orange box that says "Sheet 1." Click on that to open up a worksheet that will allow you to make some visualizations.
 
-#### Where were the enslaved people of East Africa taken from and where were they headed?
+### Where were the enslaved people of East Africa taken from and where were they headed?
 * Click on ‘Sheet 1’ in the bottom left corner of the screen.
 
 On the left, you’ll see all of the data in the spreadsheets. “Dimensions” are columns with words in them - meaning there are different categories in each row.
@@ -45,7 +44,7 @@ We now have two levels of information - we can see the large segments that show 
 * Change the colors: Add ‘Principal Place of Slave Purchase’ again and drag it into the ‘Color’ box (which is located in the ‘Marks’ box)
 * Add landing the labels: Add ‘Principal Region of Slave Landing’ agan and drag it into the ‘Label’ box
 
-#### See the number of enslaved people taken from East Africa over time.
+### See the number of enslaved people taken from East Africa over time.
 
 There's a small box in the bottom left with a bar chart and a + symbol. Click that to create a new visualization.
 
@@ -64,7 +63,7 @@ This will give you a line chart showing the total number of enslaved people who 
 *What are you able to see in this?*
 
 
-#### Where are enslaved people from particular places being taken?
+### Where are enslaved people from particular places being taken?
 
 * Open a new sheet using the button in the bottom left of the screen
 
@@ -88,7 +87,7 @@ Additional information can be added to your chart without pulling more fields in
 
 * Select ‘Slave Deaths During Middle Passage’ and drag it to the ‘Tooltip’ box under ‘Marks’. Now hover over any of the bars in the chart. You can see there are now four levels of information, our three original fields and ‘Slave Deaths during Middle Passage’.
 
-### Analyzing and Sharing
+## Analyzing and Sharing
 Take a moment and chat with your partner:
 What are you able to see from your chart? Did it look about the way you expected? Were there any surprises? Sharing your vizualizations
 
